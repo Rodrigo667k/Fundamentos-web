@@ -42,5 +42,18 @@
 .video{
     justify-content: center;
 }
+.tm-social{
+    width: 40px;
+    height: 40px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+.justify{
+    text-align: justify;
+}
+.ml-50{
+    margin-left: 50px;
+}
 
 /*Estilo CSS Contato.html/
